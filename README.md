@@ -1,4 +1,7 @@
 # Nightscout xDrip+
+
+[![Join the chat at https://gitter.im/TheDiabeticWay/xdrip-docs](https://badges.gitter.im/TheDiabeticWay/xdrip-docs.svg)](https://gitter.im/TheDiabeticWay/xdrip-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Enhanced personal research version of xDrip
 
  <img align="right" src="Documentation/images/download-xdrip-plus-qr-code.png">
